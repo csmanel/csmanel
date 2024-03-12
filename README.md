@@ -4,6 +4,7 @@ Im Cole, a renaissance/noise musician turned full-stack developer!
 I love working with others and solving problems 
 
 Here are some tools I am proficient with 
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,react,ruby,rails,css,mongodb,postgres,aws)](https://skillicons.dev)
 
 <!--
