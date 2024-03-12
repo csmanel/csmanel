@@ -1,6 +1,11 @@
-### Hi there 👋
+### Howdy!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+Im Cole, a renaissance/noise musician turned full-stack developer!
+I love working with others and solving problems 
+
+Here are some tools I am proficient with 
+[![My Skills](https://skillicons.dev/icons?i=js,html,react,ruby,rails,css,mongodb,postgres,aws)](https://skillicons.dev)
+
 <!--
 **csmanel/csmanel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
