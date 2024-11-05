@@ -2,8 +2,7 @@
 
 Im Cole, a renaissance/noise musician, coffee enthusiast, cube drawer, turned full-stack developer!
 
-Recently graduated from App Academies fullstack bootcamp and looking for new projects to work on! 
-If you want to collaborate on something don't hesitate to reach out! 
+Currently I am the Lead Developer and Project Manager at the startup [New Money](https://www.newmoney.eco/)!
 
 
 
