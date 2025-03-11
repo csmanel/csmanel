@@ -2,7 +2,7 @@
 
 Im Cole, a renaissance/noise musician, coffee enthusiast, cube drawer, turned full-stack developer!
 
-Currently I am the Lead Developer and Project Manager at the startup [New Money](https://www.newmoney.eco/)!
+Currently I am a developer at Eshtek!
 
 
 
